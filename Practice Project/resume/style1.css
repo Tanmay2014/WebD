@@ -1,0 +1,701 @@
+/*! CSS Used from: Embedded */
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(242, 247, 252);
+}
+
+/*! CSS Used from: Embedded */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: rgb(242, 247, 252);
+    font-feature-settings: "case", "rlig", "calt", "kern";
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    font-variant-ligatures: contextual common-ligatures;
+    font-kerning: normal;
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        font-size: 15px;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-be9d8r {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    background-color: #e4ebf1;
+    min-height: 100vh;
+    min-widht: 100vw;
+}
+
+/*! CSS Used from: Embedded */
+.css-1jmx1h9 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1084px;
+    padding-bottom: 0;
+}
+
+@media screen and (min-width:768px) {
+    .css-1jmx1h9 {
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .css-1jmx1h9 {
+        padding-left: 42px;
+        padding-right: 42px;
+        padding-bottom: 42px;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-1qbz534 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+    min-height: 0;
+}
+
+@media screen and (min-width:768px) {
+    .css-1qbz534 {
+        padding-left: 16px;
+        padding-right: 16px;
+        min-height: 0;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .css-1qbz534 {
+        padding-left: 0;
+        padding-right: 0;
+        min-height: 42px;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-1bnx3o6 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/*! CSS Used from: Embedded */
+.css-1lummbz {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+@media (hover:hover) {
+    .css-1lummbz:hover {
+        -webkit-text-decoration: none;
+        text-decoration: none;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-1yqdrc0 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+@media (hover:hover) {
+    .css-1yqdrc0:hover {
+        -webkit-text-decoration: none;
+        text-decoration: none;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-10nf7hq {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+/*! CSS Used from: Embedded */
+.css-rcrn2l {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    stroke: rgba(0, 0, 0, 0.5);
+    fill: none;
+    margin-left: 8px;
+}
+
+.css-rcrn2l path {
+    stroke-width: 1;
+}
+
+/*! CSS Used from: Embedded */
+.css-1tcp1k1 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    background-color: #fff;
+    overflow: hidden;
+    min-height: auto;
+}
+
+/*! CSS Used from: Embedded */
+.css-qz2fpi {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+@media screen and (min-width:768px) {
+    .css-qz2fpi {
+        padding-left: 60px;
+        padding-right: 60px;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-1ktv3f {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    margin-bottom: 48px;
+    position: relative;
+}
+
+/*! CSS Used from: Embedded */
+.css-1wp1p9h {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+    font-weight: 600;
+    line-height: 1;
+    color: #323336;
+    font-weight: 600;
+    line-height: 1;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+    text-transform: uppercase;
+    font-size: 28px;
+    -webkit-letter-spacing: 1.3px;
+    -moz-letter-spacing: 1.3px;
+    -ms-letter-spacing: 1.3px;
+    letter-spacing: 1.3px;
+    margin-bottom: 24px;
+    padding-top: 86px;
+}
+
+@media screen and (min-width:768px) {
+    .css-1wp1p9h {
+        padding-top: 0;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-1h4rgag {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+    line-height: 1.5;
+    font-weight: 300;
+    color: #323336;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+/*! CSS Used from: Embedded */
+.css-pdm4wp {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+    line-height: 1.5;
+    font-weight: 300;
+    color: #323336;
+    font-size: 16px;
+    margin-bottom: 7px;
+    color: #707678;
+}
+
+/*! CSS Used from: Embedded */
+.css-q44kbf {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: none;
+}
+
+@media (min-width:400px) {
+    .css-q44kbf {
+        display: inline;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-1w786co {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: inline;
+}
+
+@media (min-width:400px) {
+    .css-1w786co {
+        display: none;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-1cuak6k {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    overflow-wrap: break-word;
+}
+
+.css-1cuak6k:hover {
+    opacity: 0.7;
+}
+
+/*! CSS Used from: Embedded */
+.css-1xrp4m1 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+@media screen and (min-width:768px) {
+    .css-1xrp4m1 {
+        top: -12px;
+        left: -80px;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-b1jxxv {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    background-color: #43F398;
+    height: 50px;
+    width: 40px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+/*! CSS Used from: Embedded */
+.css-c12e85 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-size: 14px;
+    color: #000000;
+    line-height: 19px;
+    text-align: center;
+    font-weight: 600;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+}
+
+/*! CSS Used from: Embedded */
+.css-vurnku {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+}
+
+/*! CSS Used from: Embedded */
+.css-17iqz2r {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    margin-bottom: 60px;
+}
+
+/*! CSS Used from: Embedded */
+.css-18892rw {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+    font-weight: 600;
+    line-height: 1;
+    color: #A6AAAD;
+    font-weight: 600;
+    line-height: 1;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    -webkit-letter-spacing: 1.2px;
+    -moz-letter-spacing: 1.2px;
+    -ms-letter-spacing: 1.2px;
+    letter-spacing: 1.2px;
+    margin-bottom: 32px;
+}
+
+/*! CSS Used from: Embedded */
+.css-glxl3p {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    margin-bottom: 32px;
+    page-break-inside: avoid;
+}
+
+/*! CSS Used from: Embedded */
+.css-15t7kad {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+    font-weight: 600;
+    line-height: 1;
+    color: #323336;
+    font-weight: 600;
+    line-height: 24px;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    -webkit-letter-spacing: 0.07em;
+    -moz-letter-spacing: 0.07em;
+    -ms-letter-spacing: 0.07em;
+    letter-spacing: 0.07em;
+    margin-bottom: 8px;
+}
+
+/*! CSS Used from: Embedded */
+.css-1wafmg3 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+.css-1wafmg3:hover {
+    opacity: 0.7;
+}
+
+/*! CSS Used from: Embedded */
+.css-91u4gy {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    color: #707678;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 4px;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+}
+
+/*! CSS Used from: Embedded */
+.css-1kvlhqq {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: none;
+}
+
+@media (min-width:500px) {
+    .css-1kvlhqq {
+        display: inline;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-1bmsfsu {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: inline;
+}
+
+@media (min-width:500px) {
+    .css-1bmsfsu {
+        display: none;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-1yh09yi {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    padding: 0;
+}
+
+/*! CSS Used from: Embedded */
+.css-128kill {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+    line-height: 1.5;
+    font-weight: 300;
+    color: #323336;
+    font-size: 16px;
+    margin-bottom: 4px;
+    margin-left: 30px;
+    padding-left: 0;
+}
+
+/*! CSS Used from: Embedded */
+.css-dh6nrk {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    margin-bottom: 60px;
+    page-break-inside: avoid;
+}
+
+/*! CSS Used from: Embedded */
+.css-10c7d0b {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/*! CSS Used from: Embedded */
+.css-jqjuey {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-family: LftEtica, lft-etica, -apple-system, sans-serif;
+    line-height: 1.5;
+    font-weight: 300;
+    color: #323336;
+    font-size: 16px;
+    margin-bottom: 4px;
+    display: inline-block;
+    background-color: #f1f5f7;
+    padding: 5px 18px;
+    margin-right: 3px;
+    margin-bottom: 12px;
+    font-size: 14px;
+}
+
+/*! CSS Used from: Embedded */
+.css-1si0cz4 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-top: 48px;
+    padding-bottom: 24px;
+}
+
+@media screen and (min-width:768px) {
+    .css-1si0cz4 {
+        margin-top: 120px;
+        padding-bottom: 0;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.css-1cjs9fo {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    color: rgba(42, 63, 251, 1);
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    font-size: 12px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+@media (hover:hover) {
+    .css-1cjs9fo:hover {
+        -webkit-text-decoration: none;
+        text-decoration: none;
+        -webkit-transform: scale(1.05);
+        -ms-transform: scale(1.05);
+        transform: scale(1.05);
+        -webkit-filter: brightness(140%);
+        filter: brightness(140%);
+    }
+
+    .css-1cjs9fo:active {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+@media screen and (min-width:768px) {
+    .css-1cjs9fo {
+        font-size: 13px;
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+}
+
+/*! CSS Used fontfaces */
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url(https://assets.standardresume.co/raw/upload/v1613930712/fonts/inter-var-latin-ext_e4rknq.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url(https://assets.standardresume.co/raw/upload/v1613930712/fonts/inter-var-latin_slr2rc.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url(https://assets.standardresume.co/raw/upload/v1628265386/fonts/inter-italic-var-latin-ext_nenjsi.woff2) format('woff2');
+    unicode-range: U+0100-0149, U+014A-01C4, U+01C5-0250, U+0259, U+1E00-1F00, U+2020, U+20A0-20AC, U+20AD-20C0, U+2113, U+2C7C, U+2C7F, U+A7FF;
+    font-named-instance: 'Italic';
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url(https://assets.standardresume.co/raw/upload/v1628265386/fonts/inter-italic-var-latin_qedl54.woff2) format('woff2');
+    unicode-range: U+0000-007F, U+00A0-0100, U+0131, U+0152-0154, U+02BB-02BD, U+02C6, U+02DA, U+02DC, U+2000-200C, U+2010-2028, U+202F-2060, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+FEFF;
+    font-named-instance: 'Italic';
+}
+
+@font-face {
+    font-family: "lft-etica";
+    src: url("https://use.typekit.net/af/706098/000000000000000077359a7d/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/706098/000000000000000077359a7d/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/706098/000000000000000077359a7d/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("opentype");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "lft-etica";
+    src: url("https://use.typekit.net/af/40148d/000000000000000077359a87/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3") format("woff2"), url("https://use.typekit.net/af/40148d/000000000000000077359a87/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3") format("woff"), url("https://use.typekit.net/af/40148d/000000000000000077359a87/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3") format("opentype");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 600;
+    font-stretch: normal;
+}
